@@ -1,7 +1,7 @@
 /*
 Adapter suppose to show a list of counter on the main screen of app
 
-Issue: changed the code several times, when running app stops
+Issue: have not get it working yet
  */
 
 package com.assignment1.jlin7_countbook2;
