@@ -1,0 +1,104 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\Kenny\AndroidStudioProjects\jlin7-CountBook2\app\src\main\AndroidManifest.xml:2:1-27:12
+	package
+		ADDED from C:\Users\Kenny\AndroidStudioProjects\jlin7-CountBook2\app\src\main\AndroidManifest.xml:3:5-47
+		INJECTED from C:\Users\Kenny\AndroidStudioProjects\jlin7-CountBook2\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Kenny\AndroidStudioProjects\jlin7-CountBook2\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\Kenny\AndroidStudioProjects\jlin7-CountBook2\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Kenny\AndroidStudioProjects\jlin7-CountBook2\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\Kenny\AndroidStudioProjects\jlin7-CountBook2\app\src\main\AndroidManifest.xml:2:11-69
+	android:versionCode
+		INJECTED from C:\Users\Kenny\AndroidStudioProjects\jlin7-CountBook2\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Kenny\AndroidStudioProjects\jlin7-CountBook2\app\src\main\AndroidManifest.xml
+application
+ADDED from C:\Users\Kenny\AndroidStudioProjects\jlin7-CountBook2\app\src\main\AndroidManifest.xml:5:5-25:19
+MERGED from [com.android.support:appcompat-v7:26.0.0-alpha1] C:\Users\Kenny\.android\build-cache\4ed181c7bb354992cae4d2f54b01c708c50e0af5\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-v4:26.0.0-alpha1] C:\Users\Kenny\.android\build-cache\30146afafded3ace5fc3f1b020608de5a9f91876\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:26.0.0-alpha1] C:\Users\Kenny\.android\build-cache\b94dedc29574d17fe814177f39045d40614e755a\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-fragment:26.0.0-alpha1] C:\Users\Kenny\.android\build-cache\e02953c811adcadfe8b0341e8042f678372ae6e2\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-utils:26.0.0-alpha1] C:\Users\Kenny\.android\build-cache\36fbd2639da3fc5b2b7dc995995e73f95fcf6930\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:animated-vector-drawable:26.0.0-alpha1] C:\Users\Kenny\.android\build-cache\36cee8af7fc2db14c0a1e9a351245af42aca26ff\output\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-vector-drawable:26.0.0-alpha1] C:\Users\Kenny\.android\build-cache\c9bb6fc9c97608d8d621b8d25e7b511c64e669be\output\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\Kenny\.android\build-cache\8fbff662d8af914af8ac6ce2b9bd5ba2409eabb0\output\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:cardview-v7:26.0.0-alpha1] C:\Users\Kenny\.android\build-cache\d5e0cd339b1c0eaf9927c75112477e725bef50c8\output\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-core-ui:26.0.0-alpha1] C:\Users\Kenny\.android\build-cache\ec9eb236d4370b3d0062ff81700bdb25ec6c9678\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-compat:26.0.0-alpha1] C:\Users\Kenny\.android\build-cache\eed8e09bf97c18f3ab462f4b3a4b7124b604f197\output\AndroidManifest.xml:29:5-20
+	android:label
+		ADDED from C:\Users\Kenny\AndroidStudioProjects\jlin7-CountBook2\app\src\main\AndroidManifest.xml:8:9-41
+	android:supportsRtl
+		ADDED from C:\Users\Kenny\AndroidStudioProjects\jlin7-CountBook2\app\src\main\AndroidManifest.xml:10:9-35
+	android:roundIcon
+		ADDED from C:\Users\Kenny\AndroidStudioProjects\jlin7-CountBook2\app\src\main\AndroidManifest.xml:9:9-54
+	android:allowBackup
+		ADDED from C:\Users\Kenny\AndroidStudioProjects\jlin7-CountBook2\app\src\main\AndroidManifest.xml:6:9-35
+	android:icon
+		ADDED from C:\Users\Kenny\AndroidStudioProjects\jlin7-CountBook2\app\src\main\AndroidManifest.xml:7:9-43
+	android:theme
+		ADDED from C:\Users\Kenny\AndroidStudioProjects\jlin7-CountBook2\app\src\main\AndroidManifest.xml:11:9-40
+activity#com.assignment1.jlin7_countbook2.MainActivity
+ADDED from C:\Users\Kenny\AndroidStudioProjects\jlin7-CountBook2\app\src\main\AndroidManifest.xml:12:9-18:20
+	android:name
+		ADDED from C:\Users\Kenny\AndroidStudioProjects\jlin7-CountBook2\app\src\main\AndroidManifest.xml:12:19-47
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from C:\Users\Kenny\AndroidStudioProjects\jlin7-CountBook2\app\src\main\AndroidManifest.xml:13:13-17:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\Kenny\AndroidStudioProjects\jlin7-CountBook2\app\src\main\AndroidManifest.xml:14:17-69
+	android:name
+		ADDED from C:\Users\Kenny\AndroidStudioProjects\jlin7-CountBook2\app\src\main\AndroidManifest.xml:14:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\Kenny\AndroidStudioProjects\jlin7-CountBook2\app\src\main\AndroidManifest.xml:16:17-77
+	android:name
+		ADDED from C:\Users\Kenny\AndroidStudioProjects\jlin7-CountBook2\app\src\main\AndroidManifest.xml:16:27-74
+activity#com.assignment1.jlin7_countbook2.CreateCounterActivity
+ADDED from C:\Users\Kenny\AndroidStudioProjects\jlin7-CountBook2\app\src\main\AndroidManifest.xml:19:9-24:20
+	android:parentActivityName
+		ADDED from C:\Users\Kenny\AndroidStudioProjects\jlin7-CountBook2\app\src\main\AndroidManifest.xml:20:13-55
+	android:name
+		ADDED from C:\Users\Kenny\AndroidStudioProjects\jlin7-CountBook2\app\src\main\AndroidManifest.xml:19:19-56
+meta-data#android.support.PARENT_ACTIVITY
+ADDED from C:\Users\Kenny\AndroidStudioProjects\jlin7-CountBook2\app\src\main\AndroidManifest.xml:21:13-23:48
+	android:value
+		ADDED from C:\Users\Kenny\AndroidStudioProjects\jlin7-CountBook2\app\src\main\AndroidManifest.xml:23:17-46
+	android:name
+		ADDED from C:\Users\Kenny\AndroidStudioProjects\jlin7-CountBook2\app\src\main\AndroidManifest.xml:22:17-63
+uses-sdk
+INJECTED from C:\Users\Kenny\AndroidStudioProjects\jlin7-CountBook2\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.android.support:appcompat-v7:26.0.0-alpha1] C:\Users\Kenny\.android\build-cache\4ed181c7bb354992cae4d2f54b01c708c50e0af5\output\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:support-v4:26.0.0-alpha1] C:\Users\Kenny\.android\build-cache\30146afafded3ace5fc3f1b020608de5a9f91876\output\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-media-compat:26.0.0-alpha1] C:\Users\Kenny\.android\build-cache\b94dedc29574d17fe814177f39045d40614e755a\output\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-fragment:26.0.0-alpha1] C:\Users\Kenny\.android\build-cache\e02953c811adcadfe8b0341e8042f678372ae6e2\output\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-core-utils:26.0.0-alpha1] C:\Users\Kenny\.android\build-cache\36fbd2639da3fc5b2b7dc995995e73f95fcf6930\output\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:animated-vector-drawable:26.0.0-alpha1] C:\Users\Kenny\.android\build-cache\36cee8af7fc2db14c0a1e9a351245af42aca26ff\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:26.0.0-alpha1] C:\Users\Kenny\.android\build-cache\c9bb6fc9c97608d8d621b8d25e7b511c64e669be\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\Kenny\.android\build-cache\8fbff662d8af914af8ac6ce2b9bd5ba2409eabb0\output\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:cardview-v7:26.0.0-alpha1] C:\Users\Kenny\.android\build-cache\d5e0cd339b1c0eaf9927c75112477e725bef50c8\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:26.0.0-alpha1] C:\Users\Kenny\.android\build-cache\ae20086dbbd1d00140a894534218b65c564c3348\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:26.0.0-alpha1] C:\Users\Kenny\.android\build-cache\ec9eb236d4370b3d0062ff81700bdb25ec6c9678\output\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:26.0.0-alpha1] C:\Users\Kenny\.android\build-cache\eed8e09bf97c18f3ab462f4b3a4b7124b604f197\output\AndroidManifest.xml:21:5-23:58
+	tools:overrideLibrary
+		ADDED from [com.android.support:appcompat-v7:26.0.0-alpha1] C:\Users\Kenny\.android\build-cache\4ed181c7bb354992cae4d2f54b01c708c50e0af5\output\AndroidManifest.xml:23:9-75
+	android:targetSdkVersion
+		INJECTED from C:\Users\Kenny\AndroidStudioProjects\jlin7-CountBook2\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Kenny\AndroidStudioProjects\jlin7-CountBook2\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\Kenny\AndroidStudioProjects\jlin7-CountBook2\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Kenny\AndroidStudioProjects\jlin7-CountBook2\app\src\main\AndroidManifest.xml
+meta-data#android.support.VERSION
+ADDED from [com.android.support:appcompat-v7:26.0.0-alpha1] C:\Users\Kenny\.android\build-cache\4ed181c7bb354992cae4d2f54b01c708c50e0af5\output\AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-v4:26.0.0-alpha1] C:\Users\Kenny\.android\build-cache\30146afafded3ace5fc3f1b020608de5a9f91876\output\AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-media-compat:26.0.0-alpha1] C:\Users\Kenny\.android\build-cache\b94dedc29574d17fe814177f39045d40614e755a\output\AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-fragment:26.0.0-alpha1] C:\Users\Kenny\.android\build-cache\e02953c811adcadfe8b0341e8042f678372ae6e2\output\AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-core-utils:26.0.0-alpha1] C:\Users\Kenny\.android\build-cache\36fbd2639da3fc5b2b7dc995995e73f95fcf6930\output\AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:animated-vector-drawable:26.0.0-alpha1] C:\Users\Kenny\.android\build-cache\36cee8af7fc2db14c0a1e9a351245af42aca26ff\output\AndroidManifest.xml:22:5-24:41
+MERGED from [com.android.support:support-vector-drawable:26.0.0-alpha1] C:\Users\Kenny\.android\build-cache\c9bb6fc9c97608d8d621b8d25e7b511c64e669be\output\AndroidManifest.xml:22:5-24:41
+MERGED from [com.android.support:cardview-v7:26.0.0-alpha1] C:\Users\Kenny\.android\build-cache\d5e0cd339b1c0eaf9927c75112477e725bef50c8\output\AndroidManifest.xml:22:5-24:41
+MERGED from [com.android.support:recyclerview-v7:26.0.0-alpha1] C:\Users\Kenny\.android\build-cache\ae20086dbbd1d00140a894534218b65c564c3348\output\AndroidManifest.xml:22:5-24:41
+MERGED from [com.android.support:support-core-ui:26.0.0-alpha1] C:\Users\Kenny\.android\build-cache\ec9eb236d4370b3d0062ff81700bdb25ec6c9678\output\AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-compat:26.0.0-alpha1] C:\Users\Kenny\.android\build-cache\eed8e09bf97c18f3ab462f4b3a4b7124b604f197\output\AndroidManifest.xml:25:5-27:41
+	android:value
+		ADDED from [com.android.support:appcompat-v7:26.0.0-alpha1] C:\Users\Kenny\.android\build-cache\4ed181c7bb354992cae4d2f54b01c708c50e0af5\output\AndroidManifest.xml:27:9-38
+	android:name
+		ADDED from [com.android.support:appcompat-v7:26.0.0-alpha1] C:\Users\Kenny\.android\build-cache\4ed181c7bb354992cae4d2f54b01c708c50e0af5\output\AndroidManifest.xml:26:9-47

@@ -1,3 +1,11 @@
+/*
+Start another activity when user press addCounter button
+This is where user initialize their counter
+
+Issue: having trouble passing counter to adapter, it is suppose to show the created
+counter after pressing save button
+ */
+
 package com.assignment1.jlin7_countbook2;
 
 import android.content.Intent;
