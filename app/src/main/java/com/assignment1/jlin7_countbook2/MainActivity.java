@@ -1,3 +1,7 @@
+/*
+This is where app starts
+The home screen let user add, delete, edit counters
+ */
 package com.assignment1.jlin7_countbook2;
 
 import android.content.Context;
@@ -5,12 +9,15 @@ import android.content.Intent;
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 import android.view.View;
+import android.widget.ArrayAdapter;
 import android.widget.Button;
 import android.widget.Toast;
 
+import java.util.ArrayList;
+
 public class MainActivity extends AppCompatActivity {
     static final int REQUEST_CODE=1;
-    private String[] name;
+    private ArrayList<Counter> counters = new ArrayList<Counter>();
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
