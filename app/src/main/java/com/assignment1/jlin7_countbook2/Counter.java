@@ -7,9 +7,7 @@ package com.assignment1.jlin7_countbook2;
 
 import java.util.Date;
 
-/**
- * Created by Kenny on 2017/10/2.
- */
+
 
 public class Counter {
     static public String name;
