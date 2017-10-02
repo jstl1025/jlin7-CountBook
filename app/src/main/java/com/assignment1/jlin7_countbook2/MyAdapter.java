@@ -15,9 +15,6 @@ import android.widget.TextView;
 
 import java.util.List;
 
-/**
- * Created by Kenny on 2017/10/2.
- */
 
 public class MyAdapter extends RecyclerView.Adapter<MyAdapter.ViewHolder>  {
     private List<Counter> mCounters;
